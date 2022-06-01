@@ -18,4 +18,5 @@ contract NFTFactory {
     }
 
     //gas inefficient example implementation
+    //not sure this implementation will automatically change the owner address
 }
